@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1574428431 source:c:\xampp\htdocs\c-cplusplus\c++\cplusplus-poo\main.cpp
+	<iostream>
+	"src/Personnage.h"
+
+1574434118 c:\xampp\htdocs\c-cplusplus\c++\cplusplus-poo\src\personnage.h
+	<string>
+
+1574434137 source:c:\xampp\htdocs\c-cplusplus\c++\cplusplus-poo\src\personnage.cpp
+	"Personnage.h"
+

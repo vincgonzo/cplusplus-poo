@@ -33,6 +33,8 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="main.cpp" />
+		<Unit filename="src/Personnage.h" />
+		<Unit filename="src/Personnage.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
