@@ -6,8 +6,10 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
-    Personnage david, goliath("Hache de ouf", 20);
+    Personnage david, goliath;
+    cout << "Niveau de vie G : " << goliath.PersonnageVie() << endl;
+    cout << "Niveau de vie D : " << david.PersonnageVie() << endl;
+    cout << "===============================" << endl;
     //Création de 2 objets de type Personnage : david et goliath
 
     goliath.attaquer(david); //goliath attaque david

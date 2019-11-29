@@ -1,11 +1,24 @@
 # depslib dependency file v1.0
-1574428431 source:c:\xampp\htdocs\c-cplusplus\c++\cplusplus-poo\main.cpp
+1574678929 source:c:\xampp\htdocs\c-cplusplus\c++\cplusplus-poo\main.cpp
 	<iostream>
 	"src/Personnage.h"
 
-1574434118 c:\xampp\htdocs\c-cplusplus\c++\cplusplus-poo\src\personnage.h
+1574678711 c:\xampp\htdocs\c-cplusplus\c++\cplusplus-poo\src\personnage.h
+	<iostream>
+	<string>
+	"Arme.h"
+
+1574678555 source:c:\xampp\htdocs\c-cplusplus\c++\cplusplus-poo\src\personnage.cpp
+	"Personnage.h"
+
+1574671250 c:\xampp\htdocs\c-cplusplus\c++\cplusplus-poo\src\arme.h
+	<iostream>
 	<string>
 
-1574434137 source:c:\xampp\htdocs\c-cplusplus\c++\cplusplus-poo\src\personnage.cpp
-	"Personnage.h"
+1574678692 source:c:\xampp\htdocs\c-cplusplus\c++\cplusplus-poo\src\arme.cpp
+	"Arme.h"
+
+1574671250 source:c:\xampp\htdocs\c-cplusplus\c++\cplusplus-poo\src\arme.h
+	<iostream>
+	<string>
 
